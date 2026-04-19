@@ -1,0 +1,14 @@
+ultralytics
+opencv-python
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+tqdm
+pyyaml
+supervision
+filterpy
+lapx
+tensorboard
